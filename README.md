@@ -10,15 +10,14 @@ Steps on how to run your project
 - [ ] Build Steps
 - [ ] Running the project
 
-## Checklist
-- [ ] See requirements.txt.
-
-## Contributing
-
-<!--If you think this could be better, please [open an issue](https://github.com/CoLDorg/repo-template/issues/new)!-->
-
-Please note that all interactions in [@CoLDorg](https://github.com/CoLDorg) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## License
 
-[MIT](LICENSE) -  Team_CoLD
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+<hr>
+<p align="center"> ❰ ❱ with :heart: by Co.L.D. </p>
+
+
+

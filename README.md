@@ -1,6 +1,6 @@
-# AutoSoM
+# README Template for Projects
 
-A python based tool to publish the same content to different social media platforms simultaneously.
+This is a template for the readme, license and codeowners files for any project developed by CoLD.
 
 ## Getting Started
 
